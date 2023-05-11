@@ -23,6 +23,8 @@
 
 🛠 Project Architecture
 ---------------------------------------
+![Project Architecture](https://github.com/Jello92/BE_WithIn/assets/128972031/822be73a-a538-4816-a9df-fbf3cde292fa)
+
 
 📅 API 명세서
 ---------------------------------------
@@ -43,3 +45,4 @@
 
 🛠 트러블 슈팅
 ---------------------------------------
+[트러블 슈팅] (https://lovely-bridge-9f0.notion.site/1-T-S-6a2091e3140e46caa2e370270753702f)
